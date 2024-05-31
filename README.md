@@ -1,4 +1,5 @@
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 ![Logo de mi proyecto](https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true)
 
 # 👋 **Hola, soy Charly Flores .dev**
