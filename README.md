@@ -4,7 +4,7 @@
 
 # 👋 **Hola, soy Charly Flores .dev**
 
-soy estudiante de Ingeniería en Desarrollo de Software en la UANE y creador de contenido con una amplia gama de intereses que incluyen tecnología, arte, fotografía y videojuegos. Me esfuerzo por crear soluciones innovadoras y creativas que marquen una diferencia en la vida de las personas y apoyen a las empresas en su crecimiento. Actualmente, soy el CEO de **TechWaveNetSLW**.
+## soy estudiante de Ingeniería en Desarrollo de Software en la UANE y creador de contenido con una amplia gama de intereses que incluyen tecnología, arte, fotografía y videojuegos. Me esfuerzo por crear soluciones innovadoras y creativas que marquen una diferencia en la vida de las personas y apoyen a las empresas en su crecimiento. Actualmente, soy el CEO de **TechWaveNetSLW**.
 Estoy comprometido con el aprendizaje continuo y actualmente estoy tomando cursos de ciberseguridad y hacking ético en Cisco Skills y Udemy para ampliar mis conocimientos y habilidades en este campo. 
 ---
 
