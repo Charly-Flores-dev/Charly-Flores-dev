@@ -1,7 +1,7 @@
+
+
 ![charly]([https://drive.google.com/file/d/165Oxo2Ccc3Nofh7ZgsGbwbmh5la3Uxxp/view?usp=sharing](https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true))
-### Hola 👋, my name is Charly Flores
-#### I am Charly FLores.Dev
-👋 Hola, soy Charly Flores .dev
+###👋Hola, soy Charly Flores .dev
 Soy estudiante de Ing. en desarollo de softwarer con una amplia gama de intereses que incluyen tecnología, arte, fotografía, videojuegos y snacks. Mi objetivo es crear soluciones innovadoras y creativas que marquen una diferencia en la vida de las personas. Actualmente, soy el CEO de TechWaveNetSLW.
 Mi formacion academica la llevo en:
 [![uane](https://img.shields.io/badge/uane-800040?style=for-the-badge&logo=uane&logoColor=800040)](https://uane.edu.mx/) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
