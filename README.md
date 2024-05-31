@@ -1,3 +1,4 @@
+! https://drive.google.com/file/d/1WZsA2TNHNM-4jmZ4i6uDY4bBusYzHdbh/view?usp=sharing
 ### Hola 👋, my name is Charly Flores
 #### I am Charly FLores.Dev
 👋 Hola, soy Charly Flores .dev
@@ -10,7 +11,13 @@ Mi formacion academica la llevo en:
 
 Habilidades: 	![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)/![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) / ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)/	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) /
 
-- 🔭 Estoy trabajando en estos proyectos:
+- 🔭 Estoy trabajando en this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CharlyFloartz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/charliefloresdev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9aVyCSuoTIKq%2BWF1NpE8hQ%3D%3D/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Charlyflores)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@CharlessFloArtzMx)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://linktr.ee/charlieflores)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyFloartz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
