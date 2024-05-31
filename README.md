@@ -1,5 +1,5 @@
 
-![Logo de mi proyecto]([https://github.com/](https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true)
+![Logo de mi proyecto](https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true)
 
 ###👋Hola, soy Charly Flores .dev
 Soy estudiante de Ing. en desarollo de softwarer con una amplia gama de intereses que incluyen tecnología, arte, fotografía, videojuegos y snacks. Mi objetivo es crear soluciones innovadoras y creativas que marquen una diferencia en la vida de las personas. Actualmente, soy el CEO de TechWaveNetSLW.
