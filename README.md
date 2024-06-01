@@ -1,6 +1,6 @@
 
 
-![Logo de mi proyecto]([https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true])
+![I am BitPawn](https://github.com/CharlyFloartz/pics/blob/main/Charly%20Flores.png)
 
 # 👋 **Hola, soy Charly Flores .dev**
 
