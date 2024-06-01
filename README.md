@@ -1,6 +1,6 @@
 
 
-![I am BitPawn](https://github.com/CharlyFloartz/pics/blob/main/BitPawn.gif)
+![I am BitPawn](https://github.com/CharlyFloartz/pics/blob/main/bBitpawn.gif)
 
 # 👋 **Hola, soy Charly Flores .dev**
 
