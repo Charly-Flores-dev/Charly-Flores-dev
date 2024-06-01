@@ -1,6 +1,6 @@
 
 
-![I am BitPawn](https://github.com/CharlyFloartz/pics/blob/main/Charly%20Flores.png)
+![I am BitPawn](https://drive.google.com/file/d/1bEnps6R8JkALcM12CJHLq1q46kQZiOvV/view?usp=sharing)
 
 # 👋 **Hola, soy Charly Flores .dev**
 
