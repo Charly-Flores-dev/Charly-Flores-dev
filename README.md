@@ -1,6 +1,6 @@
 
 
-![Logo de mi proyecto]([https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true](https://github.com/CharlyFloartz/pics/blob/main/Charly%20Flores.png))
+![Logo de mi proyecto]([https://github.com/CharlyFloartz/pics/blob/a489447824dd95549c3ea59ef3c19eeb24491cd0/Charly%20Flores.gif?raw=true](https://github.com/CharlyFloartz/pics/blob/main/Charly%20Flores.png)
 
 # 👋 **Hola, soy Charly Flores .dev**
 
@@ -22,7 +22,7 @@ Skills:
 - ## 🔭 Estoy desarrollando  estos proyectos.
 - - **TechWaveNetSLW:** Innovación tecnológica y soluciones en programación.
 - - **Plataforma de E-Learning Idioma ingles**(personal, local saltillo,coahuila)
-  - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) y ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 - - **plataforma de prestamos express** (personal, local saltillo,coahuila)
 
 
